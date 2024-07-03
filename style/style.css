@@ -1,0 +1,64 @@
+#container{
+    
+    height: 50px;
+    width: 100%;
+}
+.header img{
+    height: 50px;
+    margin-left: 10px;
+
+}
+.header ul 
+{
+    float: right;
+    margin-right: 60px;
+}
+.header ul li
+{
+    display: inline;
+    margin-right: 30px;
+}
+.header ul li a{
+    color: black;
+    text-decoration: none;
+    margin-left: 20PX;
+    font-size: 14px;
+}
+.more
+{
+    text-decoration: none;
+    color: white;
+    background-color: darkgoldenrod;
+    margin-left: 10;
+    width: 50%;
+}
+.more1
+{
+    text-decoration: none;
+    color: white;
+    background-color:darkblue;
+    margin-left: 10px;
+}
+.more2
+{
+    text-decoration: none;
+    color: black;
+}
+.header1
+{
+    background-color: skyblue;
+    height: 35px;
+    width: 100%;
+    font-size: 14px;
+    position: absolute;
+}
+.middle img{
+    height: 10;
+    position: absolute;
+    top: 70;left: 40px;
+    margin-top: 40px;
+}
+.middle2{
+    float: left;
+    background-color: blue;
+}
